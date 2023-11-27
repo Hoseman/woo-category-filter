@@ -1,2 +1,2 @@
 # woo-category-filter
-A category filter for woocommerce
+A basic ajax category filter for woocommerce
